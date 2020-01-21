@@ -22,4 +22,4 @@ Configuration LocalDirTest {
         }
     }
 }
-& LocalDirTests
+& LocalDirTest
